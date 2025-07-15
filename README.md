@@ -7,7 +7,6 @@ Sofeware Engineer
 l've been learning Developer for 1 years
 
 *   🌍  I'm based in Bangkok, Thailand
-*   🖥️  See my portfolio at [My profile]()
 *   ✉️  You can contact me at [nontawat.1stace@gmail.com](mailto:nontawat.1stace@gmail.com)
 *   🤝  I'm open to collaborating on Ecommerce project### Skills 
 <p align="left">
